@@ -2,7 +2,7 @@
 
 A new and improved simple seed TDD project set up with [Parcel](https://parceljs.org/) and [Jest](https://jestjs.io/). There are no other bells or whistles, just Parcel and Jest.
 
-##Installation
+## Installation
 
 You need [nodeJS](https://nodejs.org/en/). From there:
 
