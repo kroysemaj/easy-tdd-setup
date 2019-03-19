@@ -1,7 +1,11 @@
-const firstTest = require("./index.js");
+const compliment = require("./index.js");
 
-describe("first test suite", () => {
-  it("should return a string", () => {
-    expect(firstTest()).toBe("You look nice today.");
+describe("Your first test suite", () => {
+  it("should be true", function() {
+    expect(true).toBe(true);
+  });
+
+  it("should see the source file", () => {
+    expect(compliment()).toBe("You look nice today.");
   });
 });

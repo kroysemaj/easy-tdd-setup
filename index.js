@@ -1,5 +1,5 @@
-function firstTest() {
+function compliment() {
   return "You look nice today.";
 }
 
-module.exports = firstTest;
+module.exports = compliment;
